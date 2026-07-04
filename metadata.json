@@ -1,0 +1,6 @@
+{
+  "name": "Cracklix",
+  "description": "Production-ready Cracklix Android applet with complete offline caching, local study history, streak calendar, downloads manager, and secure mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
